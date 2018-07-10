@@ -18,4 +18,8 @@ puts "What time is the party?"
 o = gets.strip
 puts "The party start at #{o} "
 
-puts 
+puts "Who is the host?"
+
+g = gets.strip
+
+puts "The host is #{g}"
