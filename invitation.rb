@@ -3,6 +3,7 @@
 # Try starting out with puts'ing a string.
 puts "What is your name?"
 z = gets.strip 
+e= gets
 puts "My name is #{z}"
 
 puts "What is your party name"
