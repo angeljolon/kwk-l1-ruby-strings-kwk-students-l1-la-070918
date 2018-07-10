@@ -15,5 +15,7 @@ w = gets.strip
 puts "The date is #{w}."
 
 puts "What time is the party?"
-w = gets.strip
-puts "The party start at "
+o = gets.strip
+puts "The party start at #{o} "
+
+puts 
